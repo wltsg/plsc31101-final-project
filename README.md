@@ -130,5 +130,5 @@ This project contains three types of scriptsm as applied to the *Foreign Relatio
 
 ## More Information
 
-*Foreign Relations of the United States* available at https://history.state.gov/historicaldocuments
+*Foreign Relations of the United States* available at https://history.state.gov/historicaldocuments  
 Method of visualizing geospatial data adapted from https://www.r-spatial.org/r/2018/10/25/ggplot2-sf.html
