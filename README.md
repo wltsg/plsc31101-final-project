@@ -30,7 +30,7 @@ This project contains three types of scriptsm as applied to the *Foreign Relatio
 #### /
 
 1. 00_narrative.Rmd: Provides a 3-5 page narrative of the project, main challenges, solutions, and results.
-2. narrative.pdf: A knitted pdf of 00_Narrative.Rmd. 
+2. narrative.pdf: A knitted pdf of 00_narrative.Rmd. 
 3. slides.pptx: Lightning talk slides
 
 #### code/
