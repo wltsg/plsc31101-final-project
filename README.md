@@ -33,7 +33,7 @@ This project contains three types of scriptsm as applied to the *Foreign Relatio
 2. narrative.pdf: A knitted pdf of 00_Narrative.Rmd. 
 3. slides.pptx: Lightning talk slides
 
-#### Code/
+#### code/
 1. 01_collecting-links.R
 	- Webscrapes *Foreign Relations of the United States* website to obtain links of every document that contains the search query "Indonesia"
 	- Output: indon-links.csv
@@ -71,7 +71,7 @@ This project contains three types of scriptsm as applied to the *Foreign Relatio
 	- Output: distri-africa.jpeg, distri-asiaandpacfic.jpeg, distri-europe.jpeg. distri-northamerica.jpeg, distri-southamerica.jpeg
 
 
-#### Data/
+#### data/
 (Dimensions in parentheses)
 1. indon-links.csv
 	- A dataset containing links to every document that contains the search query "Indonesia" (4796 x 1)
@@ -108,7 +108,7 @@ This project contains three types of scriptsm as applied to the *Foreign Relatio
 	- Output of 06_plotting-data-bar.R
 	- Input of 08_plotting-data-maps.R
 
-#### Results/
+#### plots/
 
 1. top-5-1940.jpeg: bar graph of top 5 locations in 1940 (from 06_plotting-data-bar.R)
 2. top-5-1950.jpeg: bar graph of top 5 locations in 1950 (from 06_plotting-data-bar.R)
